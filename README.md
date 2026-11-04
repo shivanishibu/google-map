@@ -13,7 +13,7 @@
 ## 📱 Application Preview
 
 <div align="center">
-  <img src="screenshots/app_preview.png" alt="GeoPulse Map Screenshot" width="360" />
+  <img src="screenshots/app_image.jpeg" alt="GeoPulse Map Screenshot" width="360" />
 </div>
 
 ---
