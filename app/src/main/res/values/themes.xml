@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GoogleMap" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorSecondary">@color/brand_accent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+        <item name="android:windowBackground">@color/surface_dark</item>
+    </style>
+
+    <style name="Theme.GoogleMap" parent="Base.Theme.GoogleMap" />
+</resources>

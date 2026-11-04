@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoPulse Map</string>
+    <string name="app_tagline">Live Fused Location Engine</string>
+    <string name="status_acquiring">Acquiring GPS Signal…</string>
+    <string name="status_live">Live Location Active</string>
+    <string name="status_disabled">GPS Disabled</string>
+    <string name="status_no_permission">Permission Required</string>
+
+    <string name="label_address">Current Address</string>
+    <string name="label_coordinates">Coordinates</string>
+    <string name="label_accuracy">Accuracy</string>
+    <string name="label_altitude">Altitude</string>
+    <string name="label_speed">Speed</string>
+    <string name="btn_recenter">My Location</string>
+    <string name="btn_share">Share Location</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_grant_permission">Grant Permission</string>
+    <string name="btn_enable_gps">Enable Location</string>
+    <string name="permission_rationale">GeoPulse requires location permissions to pinpoint your exact real-time coordinates and display your live position on the map.</string>
+
+    <string name="cd_toggle_map_layer">Toggle Map Layer</string>
+    <string name="cd_refresh_location">Refresh Location</string>
+    <string name="placeholder_fetching">Fetching location…</string>
+    <string name="placeholder_coordinates">0.00000, 0.00000</string>
+    <string name="placeholder_unit_meter">-- m</string>
+    <string name="placeholder_unit_speed">-- km/h</string>
+
+    <string name="map_layer_standard">Standard</string>
+    <string name="map_layer_dark">Dark</string>
+    <string name="map_layer_satellite">Satellite</string>
+    <string name="copied_to_clipboard">Coordinates copied to clipboard!</string>
+</resources>
